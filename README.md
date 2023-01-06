@@ -5,5 +5,5 @@ we propose the following question of interest: **How does the proportion of viol
 - We used proportion tests and bootstrapping for hypothesis testing regarding our question and then find the proportion difference with a 95% interval using both bootstrapping as well as asymptotic methods
 
 For more details:
-[project proposal](https://github.com/PUSH-YA/stat-201-2022w1-group-38/blob/93d0cd00c54e1e4f4dde8ccb4145b2511d57e5df/Project%20proposal.ipynb)
-[actual project report](https://github.com/PUSH-YA/stat-201-2022w1-group-38/blob/93d0cd00c54e1e4f4dde8ccb4145b2511d57e5df/ProjectUpdate-till_theory_based.ipynb)
+- [project proposal](https://github.com/PUSH-YA/stat-201-2022w1-group-38/blob/93d0cd00c54e1e4f4dde8ccb4145b2511d57e5df/Project%20proposal.ipynb)
+- [actual project report](https://github.com/PUSH-YA/stat-201-2022w1-group-38/blob/93d0cd00c54e1e4f4dde8ccb4145b2511d57e5df/ProjectUpdate-till_theory_based.ipynb)
